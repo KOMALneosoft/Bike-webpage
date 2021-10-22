@@ -1,0 +1,32 @@
+body{
+   background-color: rgb(44, 44, 42); 
+   box-sizing: border-box;
+   margin: 0px;
+   padding:0px;
+}
+
+
+.footer-para{
+    color: lightsteelblue;
+    padding-top:8px;
+}
+.footer-head{
+    color:blueviolet;
+    font-weight: 500;
+    text-decoration: none;
+
+}
+ #reges{background-size: cover;
+    background-image:url(./img/img5.jpg);
+    
+    color: black;
+}
+
+#blog{
+    padding:20px;   
+ }
+ 
+/*.second{background-size: cover;
+    background-image:url(./img/img3.jfif);
+}
+ */
