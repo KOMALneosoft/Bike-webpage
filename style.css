@@ -10,6 +10,12 @@ body{
     color: lightsteelblue;
     padding-top:8px;
 }
+
+
+.footer-para{
+    color: lightsteelblue;
+    padding-top:8px;
+}
 .footer-head{
     color:blueviolet;
     font-weight: 500;
@@ -18,7 +24,7 @@ body{
 }
  #reges{background-size: cover;
     background-image:url(./img/img5.jpg);
-    
+    margin-top: 50px;
     color: black;
 }
 
@@ -30,3 +36,34 @@ body{
     background-image:url(./img/img3.jfif);
 }
  */
+
+
+ @media screen and (max-width: 900px) {
+    #caro_move{
+      margin-top: 100px;
+    }
+   
+    #nav a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      #newav{
+        margin-top: 98px;
+      }
+      #reges{
+        margin-top: 98px;
+      }
+      #blog{
+        margin-top: 80px;
+      }
+      #insta img {
+          height:250px;
+          width:100%;
+
+  }
+
+}
